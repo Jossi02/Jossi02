@@ -36,8 +36,7 @@ GPIO interrupt, kernel timer, character device driver, PIR sensor와 user/kernel
 
 - [PickDream](https://github.com/Jossi02/pickdream-classroom-reservation) — 2025년 대학 기초캡스톤 팀 프로젝트를 fork한 뒤, Firebase 예약 시스템의 concurrency·idempotency·authorization 개선을 검토·통합하고 emulator tests로 검증
 - [KoJa](https://github.com/Jossi02/chrome-jlpt-word-replacer) — 3인 해커톤에서 만든 Chrome MV3 기반 JLPT 학습 확장으로, 이후 integration과 data build pipeline을 정리하고 39개 테스트와 CI로 검증
-- [HealthMate](https://github.com/Jossi02/healthmate-ai-healthcare) — 2026년 대학 심화캡스톤 팀 프로젝트로, LangGraph·FastAPI 기반 AI 건강 코칭 시스템 개발과 연구에 참여
-- [Android Sudoku Coursework](https://github.com/Jossi02/android-sudoku-generator) — instructor-provided board generator를 활용한 Android Java coursework
+- [HealthMate](https://github.com/Jossi02/healthmate-ai-healthcare) — 2026년 대학 심화캡스톤 팀 프로젝트로 LangGraph·FastAPI 기반 AI 시스템 개발과 연구에 참여했고, 개인 fork에서는 통합 코드의 보안·tenant·container·CI 검증 범위를 정리
 
 ## Research & Collaboration
 
